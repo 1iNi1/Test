@@ -1,0 +1,3 @@
+[submodule "hi"]
+	path = hi
+	url = https://github.com/1iNi1/hi.git
